@@ -114,7 +114,7 @@ No installation required.
 
 ## Author
 
-Priyanjal Yadav  
+Prajwal Sahu  
 FOSSEE OSHW Semester Long Internship – 2025  
 Screening Task Submission
 
@@ -132,3 +132,4 @@ correct firmware behaviour rather than full circuit CAD simulation.
 The goal of the project is to demonstrate understanding of Arduino execution flow
 (`setup()` + continuous `loop()`), GPIO state handling, and automatic code generation,
 rather than building a full hardware emulator.
+
